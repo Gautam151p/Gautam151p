@@ -1,9 +1,47 @@
-- 👋 Hi, I’m @Gautam151p
-- 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Javascript
-- 📫 How to reach me :vermagautam326@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: There's a 50% chance that two people will share a birthday in a group of 23 people.
+# Hi there 👋, I'm Gautam Verma
+
+## 💻 Software QA Engineer
+
+I'm a Software QA Engineer passionate about building reliable software through quality engineering. I enjoy working on test automation, exploring modern testing tools, and continuously learning new technologies.
+
+### 🚀 Currently Working On
+- Automation Testing with Playwright
+- API Testing
+- TypeScript
+- CI/CD Workflows
+
+### 🌱 Currently Learning
+- Python
+- Selenium
+- Mobile Test Automation
+- Advanced TypeScript
+
+### 🛠️ Tech Stack
+- Playwright
+- JavaScript
+- TypeScript
+- Java
+- Postman
+- Git & GitHub
+- Jenkins
+- SQL
+- Jira
+
+### 🎯 Career Goals
+- Become an SDET / Automation Engineer
+- Build scalable automation frameworks
+- Contribute to open-source testing projects
+- Share knowledge through technical training
+
+### 📫 Connect with Me
+
+📧 **Email:** vermagautam326@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/gautam-verma-364394213/
+
+---
+⭐ Always learning. Always improving.
 
 <!---
 Gautam151p/Gautam151p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
