@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gautam151p
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :vermagautam326@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: There's a 50% chance that two people will share a birthday in a group of 23 people.
