@@ -7,20 +7,18 @@ I'm a Software QA Engineer passionate about building reliable software through q
 ### 🚀 Currently Working On
 - Automation Testing with Playwright
 - API Testing
-- TypeScript
+- JavaScript
 - CI/CD Workflows
 
 ### 🌱 Currently Learning
-- Python
 - Selenium
 - Mobile Test Automation
-- Advanced TypeScript
+- TypeScript
 
 ### 🛠️ Tech Stack
 - Playwright
 - JavaScript
 - TypeScript
-- Java
 - Postman
 - Git & GitHub
 - Jenkins
